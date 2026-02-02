@@ -1,0 +1,10 @@
+streamlit
+easyocr
+pymupdf
+transformers
+torch
+scikit-learn
+pillow
+numpy
+matplotlib
+wordcloud

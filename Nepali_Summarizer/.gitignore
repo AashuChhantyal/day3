@@ -1,0 +1,11 @@
+# Python bytecode (compiled files)
+__pycache__/
+*.pyc
+
+# Local data (Keep your repository light!)
+data/*
+!data/NotoSans.ttf
+# Environment files
+.env
+venv/
+.venv/
